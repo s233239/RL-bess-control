@@ -57,6 +57,12 @@ The BESS operation is modeled as a **MDP** defined by the tuple ⟨S, A, P, R, �
 
 ---
 
+## 📝 References
+- Machine Learning for Energy Systems course materials.
+- Assignment instructions are provided in Assignment 3.pdf.
+
+---
+
 ## 👥 Contributors
 
 - @ismufahmi
