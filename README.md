@@ -1,6 +1,8 @@
 # Reinforcement Learning for Battery Energy Storage Control
 This project applies **reinforcement learning** to optimize the operation of a battery energy storage system (BESS) in a **real-time electricity market**. The goal is to **maximize revenue** while considering electricity price fluctuations and battery constraints.
 
+**Date:** November-December 2024
+
 ---
 
 ## 🛠️ Key Skills & Techniques
